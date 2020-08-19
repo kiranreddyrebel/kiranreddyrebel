@@ -1,16 +1,14 @@
-### Hi there 👋
+### my name is "U.Kiran vas Reddy"
+#### Bug Hunter | Programmer | IT Enthusiast | Quick Learner
+![Bug Hunter | Programmer | IT Enthusiast | Quick Learner](https://avatars3.githubusercontent.com/u/35675675?s=460&u=3086c3855c8142865a2bc64fa7ce990444ba0368&v=4)
 
-<!--
-**kiranreddyrebel/kiranreddyrebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Bug hunter, Programmer, Data Analyst (Jr) , who loves to learn new technologies and looking for opportunities to experience the job field. Hardworking, Enthusiastic and positive approach towards life, ability to manage stress, time and
+people, knowledge-sharing and quick learner skill
 
-Here are some ideas to get you started:
+Skills: Python / MySQL / Office / Pandas / Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 
+
+
+
+
