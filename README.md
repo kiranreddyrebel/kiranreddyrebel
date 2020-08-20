@@ -6,8 +6,13 @@ people, knowledge-sharing and quick learner skill
 
 - 🔭 Skills: Python / MySQL / Office / Pandas / Data Analysis
 
+### Academic / Internship / Course Projects
 
+- 🔭 MCA 5th Semister Project --> https://github.com/kiranreddyrebel/minorproject
 
+- 🔭 MCA 6th Semister Project (Intern) --> https://github.com/kiranreddyrebel/project
 
+- 🔭 CDAC Big Data Course Project --> https://github.com/kiranreddyrebel/CDAC_BigData_Course_Project
 
+- 🔭 Personal Project (Web) --> https://github.com/kiranreddyrebel/PostMessage_Fuzz_Tool
 
