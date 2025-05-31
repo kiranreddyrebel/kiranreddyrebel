@@ -1,18 +1,15 @@
-### Hi there 👋, my name is "U.Kiran vas Reddy"
-#### Bug Hunter | Programmer | IT Enthusiast | Quick Learner
+# Hi there 👋, I'm Ulasi Kiranvas Reddy  
+**Bug Hunter | Programmer | IT Enthusiast | Quick Learner**
 
-A passionate Bug hunter, Programmer, Data Analyst (Jr) , who loves to learn new technologies and looking for opportunities to experience the job field. Hardworking, Enthusiastic and positive approach towards life, ability to manage stress, time and
-people, knowledge-sharing and quick learner skill
+I'm a passionate **Bug Hunter** and **Programmer** with a strong enthusiasm for technology and continuous learning. With hands-on experience in **manual testing** and a keen eye for detail, I enjoy identifying issues, improving software quality, and contributing to better user experiences. I'm currently seeking opportunities to apply and expand my skills in a professional setting.
 
-- 🔭 Skills: Python / MySQL / Office / Pandas / Data Analysis
+I bring a **hardworking, enthusiastic attitude** and a **positive approach to life**. My strengths include the ability to **manage stress and time effectively**, **collaborate with teams**, **share knowledge**, and **learn quickly** in dynamic environments.
 
-### Academic / Internship / Course Projects
-
-- 🔭 MCA 5th Semister Project --> https://github.com/kiranreddyrebel/minorproject
-
-- 🔭 MCA 6th Semister Project (Intern) --> https://github.com/kiranreddyrebel/project
-
-- 🔭 CDAC Big Data Course Project --> https://github.com/kiranreddyrebel/CDAC_BigData_Course_Project
-
-- 🔭 Personal Project (Web) --> https://github.com/kiranreddyrebel/PostMessage_Fuzz_Tool
-
+## 🔧 Skills
+- Python  
+- MySQL  
+- MS Office  
+- Manual Testing  
+- Bug Reporting  
+- Test Case Design & Execution  
+- SDLC & STLC Understanding
